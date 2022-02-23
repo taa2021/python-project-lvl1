@@ -9,5 +9,17 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - name: project linter check
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install poetry
+
+      - name: Check project
         run: make lint
