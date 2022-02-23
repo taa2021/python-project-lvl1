@@ -6,5 +6,11 @@
 
 ## Brain Even
 
-Пример установки пакета, запуска игры, победы и поражения игрока:
-[![asciicast](https://asciinema.org/a/471240.svg)](https://asciinema.org/a/471240)
+Установка пакета (пример)
+[![asciicast](https://asciinema.org/a/OSYdrlz8J4XexEBHkFULGCwtG.svg)](https://asciinema.org/a/OSYdrlz8J4XexEBHkFULGCwtG)
+
+Запуск игры и победа игрока (пример)
+[![asciicast](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G.svg)](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G)
+
+Запуск игры и поражение игрока (пример)
+[![asciicast](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE.svg)](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE)

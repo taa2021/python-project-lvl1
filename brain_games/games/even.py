@@ -9,8 +9,7 @@ def run(username):
 
     print('Answer "yes" if the number is even, otherwise answer "no".')
 
-    tries = 0
-    while tries < CORRECT_TRIES:
+    for round in range(CORRECT_TRIES):
         num = randint(RAND_NUM_MIN, RAND_NUM_MAX)
 
         print(f"Question: {num}")
@@ -19,18 +18,17 @@ def run(username):
         correct_answer = "yes" if (num % 2) == 0 else "no"
 
         if correct_answer == answer.lower():
-            tries += 1
-            result = "Correct!"
+            print("Correct!")
         else:
-            tries = 0
-            result = "".join(
-                [
-                    f"'{answer}' is wrong answer ;(. ",
-                    f"Correct answer was '{correct_answer}'.\n",
-                    f"Let's try again, {username}!",
-                ]
+            print(
+                "".join(
+                    [
+                        f"'{answer}' is wrong answer ;(. ",
+                        f"Correct answer was '{correct_answer}'.\n",
+                        f"Let's try again, {username}!",
+                    ]
+                )
             )
-
-        print(result)
+            return
 
     print(f"Congratulations, {username}!")
