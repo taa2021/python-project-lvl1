@@ -1,0 +1,13 @@
+name: project-lint
+on: 
+  push:
+    branches:
+      - main
+    tags:
+      - '**'
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: project linter check
+        run: make lint
