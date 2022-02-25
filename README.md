@@ -6,12 +6,12 @@
 
 ## Установка пакета
 
-**Новая версия** ([пример запуска](https://asciinema.org/a/3TcJvshWatDwPEIFaMJggSdp4), команда:
+**Новая версия** ([пример запуска](https://asciinema.org/a/3TcJvshWatDwPEIFaMJggSdp4)), команда:
 ```
 python3 -m pip install --user hexlet_code*.whl
 ```
 
-**Принудительная переустановка** ([пример запуска](https://asciinema.org/a/mb1j7QCRHShjdm8FblXaGuaxj), команда:
+**Принудительная переустановка** ([пример запуска](https://asciinema.org/a/mb1j7QCRHShjdm8FblXaGuaxj)), команда:
 ```
 python3 -m pip install --force-reinstall --user hexlet_code*.whl
 ```
