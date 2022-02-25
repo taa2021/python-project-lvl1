@@ -24,4 +24,5 @@ python3 -m pip install --force-reinstall --user hexlet_code*.whl
 | Calc   | [здесь](https://asciinema.org/a/56rr2tdOZjlLXKmra5JwlPEvw) | [здесь](https://asciinema.org/a/oz41FjWbUBynVxZNXK1TaouS3) |
 | Even   | [здесь](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G) | [здесь](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE) |
 | GCD   | [здесь](https://asciinema.org/a/d7uQ4GmidF0NzoNX20t8aIZgO) | [здесь](https://asciinema.org/a/ily8LvnJJKLEaL1qOUOCevxL9) |
+| Prime   | [здесь](https://asciinema.org/a/5Nl1DFhfIg4W533tKCYFZCcyu) | [здесь](https://asciinema.org/a/tkSagODaw4JcoauJHBMMxhmPe) |
 | Progression   | [здесь](https://asciinema.org/a/OUBE778y7KQp7b6vO1KQwiaUz) | [здесь](https://asciinema.org/a/mtE9CxZORFc1ncK2oJnhCgN9L) |
