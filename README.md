@@ -4,13 +4,22 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![Project lint](https://github.com/taa2021/python-project-lvl1/actions/workflows/project-lint.yml/badge.svg?branch=main)](https://github.com/taa2021/python-project-lvl1/actions/workflows/project-lint.yml)
 
-## Brain Even
+## Установка пакета
 
-Установка пакета (пример)
-[![asciicast](https://asciinema.org/a/OSYdrlz8J4XexEBHkFULGCwtG.svg)](https://asciinema.org/a/OSYdrlz8J4XexEBHkFULGCwtG)
+**Новая версия** ([пример запуска](https://asciinema.org/a/3TcJvshWatDwPEIFaMJggSdp4){:target="_blank"}), команда:
+```
+python3 -m pip install --user hexlet_code*.whl
+```
 
-Запуск игры и победа игрока (пример)
-[![asciicast](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G.svg)](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G)
+**Принудительная переустановка** ([пример запуска](https://asciinema.org/a/mb1j7QCRHShjdm8FblXaGuaxj){:target="_blank"}), команда:
+```
+python3 -m pip install --force-reinstall --user hexlet_code*.whl
+```
 
-Запуск игры и поражение игрока (пример)
-[![asciicast](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE.svg)](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE)
+## Примеры запуска игр с победой и поражением игрока
+
+
+| Игра | Выигрыш | Поражение |
+| :---         |     :---:      |    :---:   |
+| Brain Even   | [здесь](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G){:target="_blank"} | [здесь](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE){:target="_blank"} |
+| Brain Calc   | [здесь](https://asciinema.org/a/56rr2tdOZjlLXKmra5JwlPEvw){:target="_blank"} | [здесь](https://asciinema.org/a/oz41FjWbUBynVxZNXK1TaouS3){:target="_blank"} |
