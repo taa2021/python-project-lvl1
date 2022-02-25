@@ -51,7 +51,7 @@ PRIMES = [
 
 
 def round(gconf):
-    if randint(0,1): # кидаем монетку
+    if randint(0, 1):  # кидаем монетку
         # выбираем гарантированно простое число
         idx = randint(0, len(PRIMES) - 1)
         num = PRIMES[idx]
