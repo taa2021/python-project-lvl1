@@ -21,5 +21,5 @@ python3 -m pip install --force-reinstall --user hexlet_code*.whl
 
 | Игра | Выигрыш | Поражение |
 | :---         |     :---:      |    :---:   |
-| Brain Even   | [здесь](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G){:target="_blank"} | [здесь](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE){:target="_blank"} |
-| Brain Calc   | [здесь](https://asciinema.org/a/56rr2tdOZjlLXKmra5JwlPEvw){:target="_blank"} | [здесь](https://asciinema.org/a/oz41FjWbUBynVxZNXK1TaouS3){:target="_blank"} |
+| Brain Even   | [здесь](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G) | [здесь](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE) |
+| Brain Calc   | [здесь](https://asciinema.org/a/56rr2tdOZjlLXKmra5JwlPEvw) | [здесь](https://asciinema.org/a/oz41FjWbUBynVxZNXK1TaouS3) |
