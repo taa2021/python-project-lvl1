@@ -10,6 +10,9 @@ brain-calc:
 brain-even:
 	poetry run brain-even
 
+brain-gcd:
+	poetry run brain-gcd
+
 build:  clean install
 	poetry build
 

@@ -23,3 +23,4 @@ python3 -m pip install --force-reinstall --user hexlet_code*.whl
 | :---         |     :---:      |    :---:   |
 | Brain Calc   | [здесь](https://asciinema.org/a/56rr2tdOZjlLXKmra5JwlPEvw) | [здесь](https://asciinema.org/a/oz41FjWbUBynVxZNXK1TaouS3) |
 | Brain Even   | [здесь](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G) | [здесь](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE) |
+| Brain GCD   | [здесь](https://asciinema.org/a/d7uQ4GmidF0NzoNX20t8aIZgO) | [здесь](https://asciinema.org/a/ily8LvnJJKLEaL1qOUOCevxL9) |
