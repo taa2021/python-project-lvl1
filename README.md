@@ -18,7 +18,6 @@ python3 -m pip install --force-reinstall --user hexlet_code*.whl
 
 ## Примеры запуска игр с победой и поражением игрока
 
-
 | Игра | Выигрыш | Поражение |
 | :---         |     :---:      |    :---:   |
 | Calc   | [здесь](https://asciinema.org/a/56rr2tdOZjlLXKmra5JwlPEvw) | [здесь](https://asciinema.org/a/oz41FjWbUBynVxZNXK1TaouS3) |
