@@ -4,6 +4,14 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![Project lint](https://github.com/taa2021/python-project-lvl1/actions/workflows/project-lint.yml/badge.svg?branch=main)](https://github.com/taa2021/python-project-lvl1/actions/workflows/project-lint.yml)
 
+## Описание
+
+В проекте представлена реализация brain games
+
+## Минимальные требования
+
+- Наличие [Python версии 3.9](https://www.python.org/downloads/)
+
 ## Установка пакета
 
 **Новая версия** ([пример запуска](https://asciinema.org/a/3TcJvshWatDwPEIFaMJggSdp4)), команда:
