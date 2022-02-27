@@ -16,7 +16,7 @@ python3 -m pip install --user hexlet_code*.whl
 python3 -m pip install --force-reinstall --user hexlet_code*.whl
 ```
 
-## Примеры запуска игр с победой и поражением игрока
+## Примеры (asciinema) запуска игр с победой и поражением игрока
 
 | Игра | Выигрыш | Поражение |
 | :---         |     :---:      |    :---:   |
@@ -25,3 +25,14 @@ python3 -m pip install --force-reinstall --user hexlet_code*.whl
 | GCD   | [здесь](https://asciinema.org/a/d7uQ4GmidF0NzoNX20t8aIZgO) | [здесь](https://asciinema.org/a/ily8LvnJJKLEaL1qOUOCevxL9) |
 | Prime   | [здесь](https://asciinema.org/a/5Nl1DFhfIg4W533tKCYFZCcyu) | [здесь](https://asciinema.org/a/tkSagODaw4JcoauJHBMMxhmPe) |
 | Progression   | [здесь](https://asciinema.org/a/OUBE778y7KQp7b6vO1KQwiaUz) | [здесь](https://asciinema.org/a/mtE9CxZORFc1ncK2oJnhCgN9L) |
+
+## Примеры (встроенные asciinema) запуска игр с победой и поражением игрока
+
+**Установка пакета**
+[![asciicast](https://asciinema.org/a/3TcJvshWatDwPEIFaMJggSdp4.svg)](https://asciinema.org/a/3TcJvshWatDwPEIFaMJggSdp4)
+
+**Запуск и выигрыш игры**
+[![asciicast](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G.svg)](https://asciinema.org/a/s7xRDpPTdIb2QhudCDI7Cad6G)
+
+**Запуск и проигрыш игры**
+[![asciicast](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE.svg)](https://asciinema.org/a/z7fffIzgVNPE0x0DyplOb7xoE)
